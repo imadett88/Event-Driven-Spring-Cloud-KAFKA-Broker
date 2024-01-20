@@ -31,6 +31,6 @@ bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic
 R1:
 <img width="960" alt="Capture d'écran 2024-01-20 212447" src="https://github.com/imadett88/Event-Driven-Spring-Cloud-KAFKA-Broker/assets/83021588/74b54a4d-0bad-404b-b101-a7258d37200b">
 
-Analytique avec Smoothie js :
+consumer graph avec Smoothie js :
 ![297206131-814a7639-8192-4e45-baa6-c237b000bae0](https://github.com/imadett88/Event-Driven-Spring-Cloud-KAFKA-Broker/assets/83021588/6258e70c-da9e-419c-ab4d-d5d80a1f5dbd)
 
